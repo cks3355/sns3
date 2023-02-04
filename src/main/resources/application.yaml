@@ -43,3 +43,4 @@ spring:
       properties.enable.idempotence: false
     topic:
       alarm: tbokvffz-alarm
+      
